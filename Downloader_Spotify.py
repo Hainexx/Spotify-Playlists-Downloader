@@ -24,8 +24,8 @@ import pandas as pd
 '''Uncomment it if this is your first time'''
 '''insert your personal client_id and client_secret code here'''
 
-#client_id = 'add3b6d31cc6433b8d8a44482751b7d9'
-#client_secret = '4bc6949be4f3406b9746026ec2fc9fa0'
+#client_id = ''
+#client_secret = ''
 #redirect_uri = 'http://localhost:8888/callback'
 
 
